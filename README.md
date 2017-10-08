@@ -35,59 +35,79 @@
         <td>Выходные данные</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td><pre>X >>> 0 
+Y >>> 0</pre></td>
+        <td>True</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td><pre>X >>> 10 
+Y >>> 10</pre></td>
+        <td>True</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td><pre>X >>> 11 
+Y >>> -10</pre></td>
+        <td>False</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td><pre>X >>> 5 
+Y >>> 2</pre></td>
+        <td>True</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td><pre>X >>> 5 
+Y >>> -2</pre></td>
+        <td>True</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td><pre>X >>> -0 
+Y >>> 1</pre></td>
+        <td>True</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td><pre>X >>> 02 
+Y >>> 3</pre></td>
+        <td>True</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td><pre>X >>> dff 
+Y >>> 10
+X >>> 3</pre></td>
+        <td><pre>'Ошибка! X-координата введена не верна. Повторите ввод.'
+True</pre>
+</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td><pre>X >>> 10 
+Y >>> gdd
+X >>> 3</pre></td>
+        <td><pre>'Ошибка! Y-координата введена не верна. Повторите ввод.'
+True</pre>
+</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td><pre>X >>> -10 
+Y >>> -12</pre></td>
+        <td>False</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td><pre>X >>> 10 
+Y >>> -11</pre></td>
+        <td>False</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td><pre>X >>> -11 
+Y >>> 9</pre></td>
+        <td>False</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td><pre>X >>> 10 
+Y >>> -10</pre></td>
+        <td>True</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td><pre>X >>> -10 
+Y >>> 10</pre></td>
+        <td>True</td>
     </tr>
 </table>
